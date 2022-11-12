@@ -30,6 +30,7 @@ https://tailwindcss.com/
 ```
 https://convertio.co/
 https://getavataaars.com/
+https://picsum.photos/
 https://shapeshifter.design
 https://vectr.com
 https://editor.method.ac/
