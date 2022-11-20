@@ -30,6 +30,7 @@ https://easings.net/
 
 ## **CONVERTORS & GENERATORS**
 ```
+https://bgjar.com
 https://convertio.co/
 https://getavataaars.com/
 https://picsum.photos/
