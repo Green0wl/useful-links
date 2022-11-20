@@ -22,6 +22,8 @@ https://www.svgbackgrounds.com/
 https://fonts.google.com/
 https://getbootstrap.com/
 https://tailwindcss.com/
+https://www.cdnfonts.com/
+https://easings.net/
 ```
 &nbsp; 
 
@@ -34,6 +36,7 @@ https://picsum.photos/
 https://shapeshifter.design
 https://vectr.com
 https://editor.method.ac/
+nize.pics
 ```
 &nbsp; 
 
