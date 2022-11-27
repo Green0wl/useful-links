@@ -15,6 +15,7 @@ https://www.colorsss.com/
 
 ## **WEB DEV**
 ```
+https://editor.method.ac/
 http://w3schools.com
 https://www.blobmaker.app/
 https://www.shapedivider.app/
