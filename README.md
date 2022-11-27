@@ -30,6 +30,7 @@ https://easings.net/
 
 ## **CONVERTORS & GENERATORS**
 ```
+https://fffuel.co/
 https://www.magicpattern.design/tools
 https://bgjar.com
 https://convertio.co/
