@@ -8,6 +8,7 @@ https://coolors.co/
 https://colorkit.co/
 https://mycolor.space/
 https://colorhub.vercel.app/
+https://www.colorsss.com/
 ```
 &nbsp; 
 
@@ -24,12 +25,24 @@ https://getbootstrap.com/
 https://tailwindcss.com/
 https://www.cdnfonts.com/
 https://easings.net/
+https://fontsss.com/
 ```
 &nbsp; 
 
 
 ## **CONVERTORS & GENERATORS**
 ```
+https://toolbox.signalsupply.co/
+https://squircley.app/
+https://app.heazy.studio/
+https://getwaves.io/
+https://superdesigner.co/tools
+https://patterns.helloyes.dev/
+https://pattern.monster/
+https://www.visiwig.com/
+https://www.svgeez.com/
+https://patternpad.com/
+https://heropatterns.com/
 https://fffuel.co/
 https://www.magicpattern.design/tools
 https://bgjar.com
@@ -56,6 +69,8 @@ https://icons8.com/
 
 ## **ICONS**
 ```
+https://logoipsum.com/
+https://signalicon.com/v2
 https://icons.getbootstrap.com/
 https://www.iconbros.com/
 https://thenounproject.com/
