@@ -71,6 +71,7 @@ https://icons8.com/
 
 ## **ICONS**
 ```
+https://simpleicons.org/
 https://www.iconfinder.com/
 https://logoipsum.com/
 https://signalicon.com/v2
