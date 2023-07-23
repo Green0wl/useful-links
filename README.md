@@ -4,6 +4,8 @@
 
 ## **COLORS**
 ```
+http://terminal.sexy
+https://mycolor.space
 https://coolors.co/
 https://colorkit.co/
 https://mycolor.space/
